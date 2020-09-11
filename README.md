@@ -4,7 +4,7 @@
 
 ### Agenda 
 
-### Questions for Parisa
+### Questions for Parisa (parni@mmmi.sdu.dk)
 
 ### Next meeting
 

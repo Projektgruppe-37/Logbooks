@@ -1,3 +1,4 @@
+# Logbook
 # Date
 
 ### Attended members: 
@@ -8,6 +9,15 @@
 
 ### Next meeting
 
-### Homework for next time:
+### Homework for next time:    
 
+_______________________________________________________________________________________________________________
  
+# Supervisor summary
+# Date
+
+### Attending members:
+
+### Agenda
+
+### Qeustions & Answers:

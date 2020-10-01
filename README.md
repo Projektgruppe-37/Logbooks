@@ -1,3 +1,7 @@
+To read the logbook and supervisor summary, go to "Wiki" and chose either "Logbook" or "Supervisor" from the menu on the right
+
+
+
 # Logbook
 # Date
 
